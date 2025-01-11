@@ -1,0 +1,9 @@
+.newsItem {
+  background-color: lightgray;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.editForm {
+  padding-top: 10px;
+}

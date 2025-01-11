@@ -1,0 +1,6 @@
+.newsForm {
+  display: inline-flex;
+  border: 1px solid gray;
+  padding: 20px;
+  gap: 10px;
+}
